@@ -52,9 +52,9 @@ Then open the local URL shown in the terminal (typically `http://localhost:5173`
 - Update `src/firebase/FirebaseConfig.jsx` with your own Firebase project settings.
 - Admin routes are protected; you'll need to set an admin flag in the user profile (or update the auth logic) to access the admin dashboard.
 
-![Screenshot 1](E-gadget\images\online-shopping-cart-app-1.png)
-<!-- (E-gadget\images\online-shopping-cart-app-2.png)
-(E-gadget\images\online-shopping-cart-app-3.png)
-(E-gadget\images\online-shopping-cart-app-4.png)
-(E-gadget\images\online-shopping-cart-app-5.png)
-(E-gadget\images\online-shopping-cart-app-6.png) -->
+![Screenshot 1](E-gadget/images/online-shopping-cart-app-1.png)
+(E-gadget/images/online-shopping-cart-app-2.png)
+(E-gadget/images/online-shopping-cart-app-3.png)
+(E-gadget/images/online-shopping-cart-app-4.png)
+(E-gadget/images/online-shopping-cart-app-5.png)
+(E-gadget/images/online-shopping-cart-app-6.png)
